@@ -1,0 +1,15 @@
+{
+    "name": "Wedding Music",
+    "short_name": "WeddingMusic",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [{
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "150x150"
+    }
+    ]
+}

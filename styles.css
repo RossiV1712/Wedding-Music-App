@@ -1,0 +1,17 @@
+.FullPageHeight {
+    height: 100vh;
+    max-height: 100vh;
+}
+
+.FullHeight {
+    height: 100%;
+}
+
+.HalfHeight {
+    height: 50%;
+}
+
+.RowSpacing {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
