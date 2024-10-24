@@ -1,13 +1,13 @@
 {
     "name": "Wedding Music",
     "short_name": "WeddingMusic",
-    "start_url": "/index.html",
+    "start_url": "/Wedding-Music-App/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "orientation": "portrait",
     "icons": [{
-        "src": "icon.png",
+        "src": "/Wedding-Music-App/icon.png",
         "type": "image/png",
         "sizes": "150x150"
     }

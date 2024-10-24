@@ -1,13 +1,13 @@
 const staticPhoneStore = "Wedding-Music-Store"
 const assets = [
     "/Wedding-Music-App/",
-    "/index.html",
-    "/styles.css",
-    "/Script.js",
-    "/GuestArrivalMusic.mp3",
-    "/EntranceMusic.mp3",
-    "/SigningMusic.mp3",
-    "/ExitMusic.mp3"
+    "/Wedding-Music-App/index.html",
+    "/Wedding-Music-App/styles.css",
+    "/Wedding-Music-App/Script.js",
+    "/Wedding-Music-App/GuestArrivalMusic.mp3",
+    "/Wedding-Music-App/EntranceMusic.mp3",
+    "/Wedding-Music-App/SigningMusic.mp3",
+    "/Wedding-Music-App/ExitMusic.mp3"
 ]
 
 self.addEventListener("install", installEvent => {
