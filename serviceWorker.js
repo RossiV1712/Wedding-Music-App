@@ -1,6 +1,6 @@
 const staticPhoneStore = "Wedding-Music-Store"
 const assets = [
-    "/",
+    "/Wedding-Music-App/",
     "/index.html",
     "/styles.css",
     "/Script.js",
